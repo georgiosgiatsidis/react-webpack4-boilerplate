@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-import HomePage from './HomePage';
+import HomePage from '../containers/HomePage';
 import DashboardPage from './DashboardPage';
 
 const App = () => {
